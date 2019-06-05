@@ -1,0 +1,26 @@
+html{
+
+	background-color: pink;
+  
+}
+
+.thin-blue-border {
+	border-color: #61D6E8;
+	border-width: 10px;
+	border-style: solid;
+}
+
+.blue-background {
+	background-color: #61D6E8;
+	padding: 20px 40px 20px 40px;
+	margin: 40px;
+}
+
+ul a:hover, p a:hover{
+	color: #8B0000;
+}
+
+.align-center-text {
+	text-align: center;
+}
+
